@@ -24,13 +24,21 @@ Birinci işlevsellik: Sayı girebileceğim üç tane textbox bulunacak. Bu textb
 Dördüncü işlevsellik: Bilgisayarımdan bir metin dosyası seçmeme izin vermeli. Bu metin dosyasında sayılar olacak. Bu sayılar “white-space” karakterleri ile ayrılmış olacak (ipucu: white-space karakterlerinin TÜMÜNÜ dikkate aldığınıza emin olun yoksa programınız muhtemelen hata verecektir). Decimal sayıların ondalık haneleri virgül ile ayrılmış olacak. Metin dosyasındaki sayı miktarı belirsiz. Dosyayı seçip düğmeye tıkladığımda metin dosyasındaki tüm sayıları BÜYÜKTEN KÜÇÜĞE doğru sıralanmış bir biçimde ekranda görmeliyim. Örnek bir metin dosyasının içeriği şöyle:
 
 56   45 6 2 789 
+
 9 349   -87
+
 11
+
 4,34   -198,456
+
 65
+
 9,85      45
+
 -1
+
    99,456
+
 877 56     34  4
 
 Beşinci işlevsellik: Bir textbox’a kaç yazarsam, düğmeye basıldığında, ekranda, o sıradaki Fibonacci sayısını görmeliyim. Örneğin kutuya 12 yazarsam, ekranda 89 göstermeli. Fibonacci serisininde, birinci sıradaki sayı 0, ikinci sıradaki sayı 1’dir.
