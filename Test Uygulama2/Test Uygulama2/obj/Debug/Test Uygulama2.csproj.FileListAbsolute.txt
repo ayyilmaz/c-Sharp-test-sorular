@@ -1,0 +1,10 @@
+C:\Users\HATICE\source\repos\Test Uygulama2\Test Uygulama2\bin\Debug\Test Uygulama2.exe.config
+C:\Users\HATICE\source\repos\Test Uygulama2\Test Uygulama2\bin\Debug\Test Uygulama2.exe
+C:\Users\HATICE\source\repos\Test Uygulama2\Test Uygulama2\bin\Debug\Test Uygulama2.pdb
+C:\Users\HATICE\source\repos\Test Uygulama2\Test Uygulama2\obj\Debug\Test Uygulama2.csprojAssemblyReference.cache
+C:\Users\HATICE\source\repos\Test Uygulama2\Test Uygulama2\obj\Debug\Test_Uygulama2.Form1.resources
+C:\Users\HATICE\source\repos\Test Uygulama2\Test Uygulama2\obj\Debug\Test_Uygulama2.Properties.Resources.resources
+C:\Users\HATICE\source\repos\Test Uygulama2\Test Uygulama2\obj\Debug\Test Uygulama2.csproj.GenerateResource.cache
+C:\Users\HATICE\source\repos\Test Uygulama2\Test Uygulama2\obj\Debug\Test Uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\HATICE\source\repos\Test Uygulama2\Test Uygulama2\obj\Debug\Test Uygulama2.exe
+C:\Users\HATICE\source\repos\Test Uygulama2\Test Uygulama2\obj\Debug\Test Uygulama2.pdb

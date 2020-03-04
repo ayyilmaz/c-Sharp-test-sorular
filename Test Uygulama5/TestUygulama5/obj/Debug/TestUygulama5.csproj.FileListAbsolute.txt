@@ -1,0 +1,20 @@
+C:\Users\HATICE\source\repos\TestUygulama5\TestUygulama5\bin\Debug\TestUygulama5.exe.config
+C:\Users\HATICE\source\repos\TestUygulama5\TestUygulama5\bin\Debug\TestUygulama5.exe
+C:\Users\HATICE\source\repos\TestUygulama5\TestUygulama5\bin\Debug\TestUygulama5.pdb
+C:\Users\HATICE\source\repos\TestUygulama5\TestUygulama5\obj\Debug\TestUygulama5.csprojAssemblyReference.cache
+C:\Users\HATICE\source\repos\TestUygulama5\TestUygulama5\obj\Debug\TestUygulama5.Form1.resources
+C:\Users\HATICE\source\repos\TestUygulama5\TestUygulama5\obj\Debug\TestUygulama5.Properties.Resources.resources
+C:\Users\HATICE\source\repos\TestUygulama5\TestUygulama5\obj\Debug\TestUygulama5.csproj.GenerateResource.cache
+C:\Users\HATICE\source\repos\TestUygulama5\TestUygulama5\obj\Debug\TestUygulama5.csproj.CoreCompileInputs.cache
+C:\Users\HATICE\source\repos\TestUygulama5\TestUygulama5\obj\Debug\TestUygulama5.exe
+C:\Users\HATICE\source\repos\TestUygulama5\TestUygulama5\obj\Debug\TestUygulama5.pdb
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulama5\bin\Debug\TestUygulama5.exe.config
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulama5\bin\Debug\TestUygulama5.exe
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulama5\bin\Debug\TestUygulama5.pdb
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulama5\obj\Debug\TestUygulama5.csprojAssemblyReference.cache
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulama5\obj\Debug\TestUygulama5.Form1.resources
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulama5\obj\Debug\TestUygulama5.Properties.Resources.resources
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulama5\obj\Debug\TestUygulama5.csproj.GenerateResource.cache
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulama5\obj\Debug\TestUygulama5.csproj.CoreCompileInputs.cache
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulama5\obj\Debug\TestUygulama5.exe
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulama5\obj\Debug\TestUygulama5.pdb

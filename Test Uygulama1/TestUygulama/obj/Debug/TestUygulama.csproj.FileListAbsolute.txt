@@ -1,0 +1,10 @@
+C:\Users\HATICE\source\repos\TestUygulama\TestUygulama\bin\Debug\TestUygulama.exe.config
+C:\Users\HATICE\source\repos\TestUygulama\TestUygulama\bin\Debug\TestUygulama.exe
+C:\Users\HATICE\source\repos\TestUygulama\TestUygulama\bin\Debug\TestUygulama.pdb
+C:\Users\HATICE\source\repos\TestUygulama\TestUygulama\obj\Debug\TestUygulama.csprojAssemblyReference.cache
+C:\Users\HATICE\source\repos\TestUygulama\TestUygulama\obj\Debug\TestUygulama.Form1.resources
+C:\Users\HATICE\source\repos\TestUygulama\TestUygulama\obj\Debug\TestUygulama.Properties.Resources.resources
+C:\Users\HATICE\source\repos\TestUygulama\TestUygulama\obj\Debug\TestUygulama.csproj.GenerateResource.cache
+C:\Users\HATICE\source\repos\TestUygulama\TestUygulama\obj\Debug\TestUygulama.csproj.CoreCompileInputs.cache
+C:\Users\HATICE\source\repos\TestUygulama\TestUygulama\obj\Debug\TestUygulama.exe
+C:\Users\HATICE\source\repos\TestUygulama\TestUygulama\obj\Debug\TestUygulama.pdb

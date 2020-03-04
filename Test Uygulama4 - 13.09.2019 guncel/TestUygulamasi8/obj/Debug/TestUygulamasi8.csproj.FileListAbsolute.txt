@@ -1,0 +1,20 @@
+C:\Users\HATICE\source\repos\TestUygulamasi8\TestUygulamasi8\bin\Debug\TestUygulamasi8.exe.config
+C:\Users\HATICE\source\repos\TestUygulamasi8\TestUygulamasi8\bin\Debug\TestUygulamasi8.exe
+C:\Users\HATICE\source\repos\TestUygulamasi8\TestUygulamasi8\bin\Debug\TestUygulamasi8.pdb
+C:\Users\HATICE\source\repos\TestUygulamasi8\TestUygulamasi8\obj\Debug\TestUygulamasi8.csprojAssemblyReference.cache
+C:\Users\HATICE\source\repos\TestUygulamasi8\TestUygulamasi8\obj\Debug\TestUygulamasi8.Form1.resources
+C:\Users\HATICE\source\repos\TestUygulamasi8\TestUygulamasi8\obj\Debug\TestUygulamasi8.Properties.Resources.resources
+C:\Users\HATICE\source\repos\TestUygulamasi8\TestUygulamasi8\obj\Debug\TestUygulamasi8.csproj.GenerateResource.cache
+C:\Users\HATICE\source\repos\TestUygulamasi8\TestUygulamasi8\obj\Debug\TestUygulamasi8.csproj.CoreCompileInputs.cache
+C:\Users\HATICE\source\repos\TestUygulamasi8\TestUygulamasi8\obj\Debug\TestUygulamasi8.exe
+C:\Users\HATICE\source\repos\TestUygulamasi8\TestUygulamasi8\obj\Debug\TestUygulamasi8.pdb
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulamasi8\bin\Debug\TestUygulamasi8.exe.config
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulamasi8\bin\Debug\TestUygulamasi8.exe
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulamasi8\bin\Debug\TestUygulamasi8.pdb
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulamasi8\obj\Debug\TestUygulamasi8.csprojAssemblyReference.cache
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulamasi8\obj\Debug\TestUygulamasi8.Form1.resources
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulamasi8\obj\Debug\TestUygulamasi8.Properties.Resources.resources
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulamasi8\obj\Debug\TestUygulamasi8.csproj.GenerateResource.cache
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulamasi8\obj\Debug\TestUygulamasi8.csproj.CoreCompileInputs.cache
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulamasi8\obj\Debug\TestUygulamasi8.exe
+C:\Users\HATICE\Desktop\TEST Sorular\Test Uygulama5\TestUygulamasi8\obj\Debug\TestUygulamasi8.pdb

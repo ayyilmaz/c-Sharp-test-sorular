@@ -1,0 +1,10 @@
+C:\Users\HATICE\source\repos\TestUygulaması3\TestUygulaması3\bin\Debug\TestUygulaması3.exe.config
+C:\Users\HATICE\source\repos\TestUygulaması3\TestUygulaması3\bin\Debug\TestUygulaması3.exe
+C:\Users\HATICE\source\repos\TestUygulaması3\TestUygulaması3\bin\Debug\TestUygulaması3.pdb
+C:\Users\HATICE\source\repos\TestUygulaması3\TestUygulaması3\obj\Debug\TestUygulaması3.Form1.resources
+C:\Users\HATICE\source\repos\TestUygulaması3\TestUygulaması3\obj\Debug\TestUygulaması3.Properties.Resources.resources
+C:\Users\HATICE\source\repos\TestUygulaması3\TestUygulaması3\obj\Debug\TestUygulaması3.csproj.GenerateResource.cache
+C:\Users\HATICE\source\repos\TestUygulaması3\TestUygulaması3\obj\Debug\TestUygulaması3.csproj.CoreCompileInputs.cache
+C:\Users\HATICE\source\repos\TestUygulaması3\TestUygulaması3\obj\Debug\TestUygulaması3.exe
+C:\Users\HATICE\source\repos\TestUygulaması3\TestUygulaması3\obj\Debug\TestUygulaması3.pdb
+C:\Users\HATICE\source\repos\TestUygulaması3\TestUygulaması3\obj\Debug\TestUygulaması3.csprojAssemblyReference.cache
